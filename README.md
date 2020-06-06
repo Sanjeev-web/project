@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## excution steps
 1  Copy web application directory and paste it to C:\ProgramFiles\Apache Software Foundation\Tomcat 5.0\webapps in your local machine.
    
@@ -12,6 +29,8 @@
 6  To check whether tomcat in started or not. Just open your browser and type http://localhost:8080; Tomcat home page will be open.
 
 7  For the best view use IE-6.0 browser.
+
+
 
 
 
